@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.apiTest.ApiTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.827 s - in com.test.apiTest.ApiTestApplicationTests
